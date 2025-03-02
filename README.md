@@ -2,10 +2,15 @@
 This project utilizes Python to perform comprehensive data analysis on transaction and customer data from the Bikes & Cycling Accessories Organization. The primary focus is to explore the data, conduct cohort and retention rate analysis, and integrate customer demographics for deeper insights into purchasing behaviors.
 
 # 2. Data Description
-The dataset includes:
+- **Data Description**
+This project uses three main datasets detailing transactions, customer demographics and customer address from the Bikes & Cycling Accessories Organization:
 
-Transactions Data: Records of sales transactions
-CustomerDemographic Data: Information about customers, including demographics such as gender, age, and job industry.
+- **Transactions Data**
+transaction_id; product_id; customer_id; transaction_date; online_order; order_status; brand; product_line; product_class; product_size; list_price; standard_cost; product_first_sold_date: 
+- **Customer Demographic Data**
+customer_id; name; gender; past_3_years_bike_related_purchases; DOB; age; job_title; job_industry_category; wealth_segment;deceased_indicator; owns_car; tenure: 
+- **Customer Address Data**
+customer_id;address; postcode; state; country; property_valuation: Valuation of the property (int64)
 
 # 3. Analyses Performed
 ### Data Cleaning and EDA:
