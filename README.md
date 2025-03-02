@@ -10,7 +10,7 @@ transaction_id; product_id; customer_id; transaction_date; online_order; order_s
 - **Customer Demographic Data**
 customer_id; name; gender; past_3_years_bike_related_purchases; DOB; age; job_title; job_industry_category; wealth_segment;deceased_indicator; owns_car; tenure: 
 - **Customer Address Data**
-customer_id;address; postcode; state; country; property_valuation: Valuation of the property (int64)
+customer_id;address; postcode; state; country; property_valuation
 
 # 3. Analyses Performed
 ### Data Cleaning and EDA:
