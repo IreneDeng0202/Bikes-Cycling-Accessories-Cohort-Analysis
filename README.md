@@ -9,7 +9,7 @@ CustomerDemographic Data: Information about customers, including demographics su
 
 # 3. Analyses Performed
 ### Data Cleaning and EDA:
-Initial cleaning and exploratory data analysis (EDA) on transaction data.
+Initial cleaning and exploratory data analysis  on transaction data.
 Data cleansing and basic EDA on customer data.
 
 ### Cohort Analysis:
