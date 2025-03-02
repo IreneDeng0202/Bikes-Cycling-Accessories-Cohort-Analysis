@@ -1,5 +1,5 @@
 # 1. Bikes Cycling Accessories Cohort Analysis Project 
-This project utilizes Python to perform comprehensive data analysis on transaction and customer data from the Bikes & Cycling Accessories Organization. The primary focus is to explore the data, conduct cohort and retention rate analysis, and integrate customer demographics for deeper insights into purchasing behaviors.
+This project focuses on conducting a detailed cohort analysis of transaction and customer data for a Bikes & Cycling Accessories Organization. Utilizing Python for data processing, the analysis aims to track customer retention over time, identify trends in purchasing behavior, and evaluate how product attributes influence customer loyalty. Key components of the project include data cleaning, exploratory data analysis (EDA), and the integration of transactional and demographic data to perform advanced analytics such as RFM segmentation and geographic sales performance. The outcomes provide strategic insights into customer behavior, product performance, and sales trends, assisting in informed decision-making for marketing and product development strategies.
 
 # 2. Data Description
 - **Data Description**
