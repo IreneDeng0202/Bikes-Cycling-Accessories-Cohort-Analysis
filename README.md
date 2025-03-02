@@ -8,24 +8,23 @@ Transactions Data: Records of sales transactions
 CustomerDemographic Data: Information about customers, including demographics such as gender, age, and job industry.
 
 # 3. Analyses Performed
-- **Data Cleaning and EDA**:
-
+### Data Cleaning and EDA:
 Initial cleaning and exploratory data analysis (EDA) on transaction data.
 Data cleansing and basic EDA on customer data.
-Cohort Analysis:
 
+### Cohort Analysis:
 Cohort analysis to explore retention rates over different periods.
 Heatmaps to visualize retention trends.
 Product attribution analysis for declining cohorts, examining how different brands influence customer retention.
-RFM Analysis:
 
-RFM analysis segmented by customer demographics (gender, age, job industry).
+### RFM Analysis:
+RFM analysis and RFM Scores by customer demographics (gender, age, job industry).
 Visualization of RFM segments using pie charts and bar plots.
-Brand Sales Performance:
 
+### Brand Sales Performance:
 Analysis of brand performance within the product lines.
 Heatmaps to display sales performance.
-Geographic Purchase Patterns:
 
+### Geographic Purchase Patterns:
 Examination of customer buying patterns by state.
 Visualization of total sales and brand sales proportion by state using pie charts.
