@@ -28,7 +28,7 @@ Visualization of RFM segments using pie charts and bar plots.
 
 ### Brand Sales Performance:
 Analysis of brand performance within the product lines.
-Heatmaps to display sales performance.
+Visualization of brand and produc line sales performance using heatmap.
 
 ### Geographic Purchase Patterns:
 Examination of customer buying patterns by state.
